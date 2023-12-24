@@ -1,7 +1,9 @@
 ### My Gayhub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanyudada&count_private=true)
 
-
+### 我的开发工具
+[![](https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-JetBrains-black?style=flat-square&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
 <!--
 **xuanyudada/xuanyudada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
