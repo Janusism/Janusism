@@ -1,6 +1,8 @@
 ### My Github
-[![GitHub 数据](https://github-readme-stats.vercel.app/api?username=Janusism)]()
-[![编码时长统计](https://github-readme-stats.vercel./api/top-langs/username=Janusism&show_icons=true)]()
+<div>
+  <img  width="342" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janusism&layout=compact"/>
+  <img  width="450"   src="https://github-readme-stats.vercel.app/api?username=Janusism&show_icons=true&layout=compact"/>
+</div>
 
 ### 我的开发工具
 [![](https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
