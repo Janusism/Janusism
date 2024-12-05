@@ -1,7 +1,7 @@
 ### My Github
 <div style="display:flex;">
-  <img  width="450"   src="https://github-readme-stats.vercel.app/api?username=llds66&show_icons=true>
-  <img  width="450"   src="https://github-readme-stats.vercel.app/api?username=Janusism&count_private=true">
+[![GitHub 数据](https://github-readme-stats.vercel.app/api?username=Janusism)]()
+[![编码时长统计](https://github-readme-stats.vercel.app/api/wakatime?username=Janusism)]()
 </div>
 
 ### 我的开发工具
