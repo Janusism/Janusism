@@ -1,5 +1,9 @@
 ### My Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janusism&count_private=true)
+<div style="display:flex;">
+  <img  width="450"   src="https://github-readme-stats.vercel.app/api?username=llds66&show_icons=true>
+  <img  width="450"   src="https://github-readme-stats.vercel.app/api?username=Janusism&count_private=true"
+
+</div>
 
 ### 我的开发工具
 [![](https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
