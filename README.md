@@ -1,6 +1,6 @@
 ### My Github
 [![GitHub 数据](https://github-readme-stats.vercel.app/api?username=Janusism)]()
-[![编码时长统计](https://github-readme-stats.vercel.app/api?username=Janusism&show_icons=true)]()
+[![编码时长统计](https://github-readme-stats.vercel./api/top-langs/username=Janusism&show_icons=true)]()
 
 ### 我的开发工具
 [![](https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
