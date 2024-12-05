@@ -1,8 +1,7 @@
 ### My Github
 <div style="display:flex;">
   <img  width="450"   src="https://github-readme-stats.vercel.app/api?username=llds66&show_icons=true>
-  <img  width="450"   src="https://github-readme-stats.vercel.app/api?username=Janusism&count_private=true"
-
+  <img  width="450"   src="https://github-readme-stats.vercel.app/api?username=Janusism&count_private=true">
 </div>
 
 ### 我的开发工具
